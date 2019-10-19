@@ -1,0 +1,3 @@
+- *This line will be italic*
+- **This line will be bold**
+- _Italic_ and __Bold__
